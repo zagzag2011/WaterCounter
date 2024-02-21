@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Docker
+.docker/
+docker-compose.override.yml
+docker-compose.override.yml.example
+*.override.yml
+*.override.yml.example
+
+# SQLite Database
+data/
+
+# macOS
+.DS_Store
+
+# Editor-specific
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+logs/
+log/
+

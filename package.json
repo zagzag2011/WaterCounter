@@ -1,0 +1,16 @@
+{
+  "name": "docker-node-sqlite",
+  "version": "1.0.0",
+  "description": "Node.js app with SQLite and Docker Compose",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "zagzag2011",
+  "license": "MIT"
+}
+
